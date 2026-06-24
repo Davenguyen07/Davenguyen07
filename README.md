@@ -1,4 +1,5 @@
-<!-- TYPING ANIMATION HEADER -->
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+a+Cybersecurity+Student+%F0%9F%8E%93;Flinders+University+%C2%B7+Adelaide%2C+SA+%F0%9F%87%A6%F0%9F%87%BA;Studying%3A+Network+Security+%26+Ethical+Hacking+%F0%9F%94%90;First+commit+incoming...+%F0%9F%9A%80;Learning+every+day%2C+one+step+at+a+time+%E2%8F%B1%EF%B8%8F" alt="Typing SVG" />
 </p>
@@ -136,15 +137,15 @@ Cybersecurity ███░░░░░░░░░░░░░░░░░  15% 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davenguyen&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=e05c1a&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davenguyen&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=e05c1a&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenguyen&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&layout=compact" alt="Top Languages" />
 </p>
 
 <!-- ⚠️ Replace YOUR_USERNAME with your actual GitHub username (3 places) -->
@@ -168,11 +169,3 @@ Cybersecurity ███░░░░░░░░░░░░░░░░░  15% 
 <br/>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <em>🌱 Just getting started — but I won't stop · Flinders University · Adelaide 🛡️</em>
-</p>
