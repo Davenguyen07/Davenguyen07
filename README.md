@@ -1,20 +1,19 @@
-
+<p align="center">
+  <img src="Github gif.gif" width="400"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+a+Cybersecurity+Student+%F0%9F%8E%93;Flinders+University+%C2%B7+Adelaide%2C+SA+%F0%9F%87%A6%F0%9F%87%BA;Studying%3A+Network+Security+%26+Ethical+Hacking+%F0%9F%94%90;First+commit+incoming...+%F0%9F%9A%80;Learning+every+day%2C+one+step+at+a+time+%E2%8F%B1%EF%B8%8F" alt="Typing SVG" />
+  
 </p>
-
 <br/>
-
-<!-- FLINDERS UNI BANNER -->
-<p align="center">
+  <!-- Badges -->
   <img src="https://img.shields.io/badge/Flinders%20University-Cybersecurity-e05c1a?style=for-the-badge&logo=academia&logoColor=white" alt="Flinders University"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Adelaide%2C%20SA-%F0%9F%87%A6%F0%9F%87%BA-e05c1a?style=for-the-badge&logoColor=white" alt="Adelaide Australia"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Currently%20Studying-3fb950?style=for-the-badge&logoColor=white" alt="Status"/>
 </p>
-
 <br/>
 
 ---
@@ -122,13 +121,6 @@ Cybersecurity ███░░░░░░░░░░░░░░░░░  15% 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
-<!--
-  💡 TO MAKE THE SNAKE ACTUALLY WORK:
-  1. Create .github/workflows/snake.yml in your repo
-  2. Paste the workflow content from the SETUP section at the bottom
-  3. Run Actions → snake will auto-update every day
--->
 
 <br/>
 
