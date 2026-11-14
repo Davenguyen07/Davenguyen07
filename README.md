@@ -137,6 +137,10 @@ Cybersecurity ███░░░░░░░░░░░░░░░░░  15% 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davenguyen&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=e05c1a&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="metrics.languages.svg" alt="Languages activity">
+</p>
+
 <br/>
 
 ---
