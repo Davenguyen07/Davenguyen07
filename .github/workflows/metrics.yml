@@ -36,3 +36,4 @@ jobs:
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 6
           config_timezone: Australia/Adelaide
+          commits_authoring: Davenguyen07, Minhducflinder
