@@ -130,18 +130,12 @@ Cybersecurity ███░░░░░░░░░░░░░░░░░  15% 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davenguyen&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="metrics.isocalendar.svg" alt="Isometric commit calendar">
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davenguyen&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=e05c1a&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenguyen&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&layout=compact" alt="Top Languages" />
-</p>
-
-<!-- ⚠️ Replace YOUR_USERNAME with your actual GitHub username (3 places) -->
 
 <br/>
 

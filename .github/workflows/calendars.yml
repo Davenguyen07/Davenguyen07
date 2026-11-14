@@ -3,7 +3,7 @@ on:
   schedule: [{ cron: "0 0 * * *" }]   
   workflow_dispatch:                   
 jobs:
-  github-metrics:
+  isocalendar:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -12,7 +12,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Davenguyen07
-          config_timezone: Australia/Adelaide
-          base: header, activity, community, repositories, metadata
-          plugin_languages: yes
+          filename: metrics.isocalendar.svg
+          base: ""                          
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year   
+          config_timezone: Australia/Adelaide
