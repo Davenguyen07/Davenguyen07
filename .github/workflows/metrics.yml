@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  schedule: [{ cron: "0 0 * * *" }]   
-  workflow_dispatch:                   
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
 jobs:
   isocalendar:
     runs-on: ubuntu-latest
@@ -13,14 +13,14 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Davenguyen07
           filename: metrics.isocalendar.svg
-          base: ""                          
+          base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year   
+          plugin_isocalendar_duration: full-year
           config_timezone: Australia/Adelaide
-      
-    languages:
+
+  languages:
     runs-on: ubuntu-latest
-    needs: isocalendar        
+    needs: isocalendar
     permissions:
       contents: write
     steps:
